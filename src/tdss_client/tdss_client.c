@@ -15,7 +15,7 @@ void server_usage(char *pname)
 {
     printf("Usage: %s <-a|-d|-f> file [--help] [--version]\n"
            "\n  -a file\tadd file to storage."
-           "\n  -g file\tfile file from storage."
+           "\n  -g file\tget file from storage."
            "\n  -d file\tdel file."
            "\n  -f file\tfind file index & storage addr."
 
